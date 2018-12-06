@@ -22,7 +22,6 @@ class TodoListViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(selectedCategory)
      }
 
     //MARK: - Tableview Datasource Methods
